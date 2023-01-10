@@ -1,0 +1,828 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "8ZX_yAZejuLPqygkf9OPkg_W7oA",
+  "nextPageToken": "CBgQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 57366,
+    "resultsPerPage": 24
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RDlbZTalWOxW_3s-aze6lELe3ms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "khVyWskCiyQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-12T04:22:24Z",
+        "channelId": "UCeSeLImkgg5hyJhTdBz55UQ",
+        "title": "snowboard 스노우보드 tip 베이직부터~~ 카빙까지 한방에 핵심만!! (basiccarving 신택호 한방트릭)",
+        "description": "snowboard #스노우보드 #snowboardcarving 1편 Nollie 360 Tip1 영상은 https://youtu.be/jUR94FnaGMM 2편 Nollie 720 Tip2 영상 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/khVyWskCiyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/khVyWskCiyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/khVyWskCiyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "신택호TV[직장인 취미,레져]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-12T04:22:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YODoQ1XOYTK2nkjIlrnLKyrZTCI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rov7cqEip2I"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-13T11:19:21Z",
+        "channelId": "UCVvmFi5xAfTrKaCaMyaLlIA",
+        "title": "전향카빙 시즌강습 3편 - 베이직카빙! 제대로 하는법! 뼛속까지 알려줄께!",
+        "description": "테크니컬라이딩, #전향카빙, #모두공개합니다 스노우보드 관련한 모든 지식을 \"\"숨.김.없.이.\"\" 모두 공개하려고 채널을 개설 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rov7cqEip2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rov7cqEip2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rov7cqEip2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "독학보더",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-13T11:19:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tHDePM287a3U0E19ulVeulq4QzI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WMdyR4NIUls"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-17T15:32:02Z",
+        "channelId": "UCprx5PQPAArOfD2nA-3yrZw",
+        "title": "[Snowboard 스노우보드] 강좌9. 베이직 카빙의 원리와 문제점들⎪스키장⎪범빠덕션⎪",
+        "description": "카빙은 엣지 세우고 기다리면 됩니다. 강습문의 카카오 https://open.kakao.com/o/sSaY25Ic BGM https://artlist.io/burns-2188112 위 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WMdyR4NIUls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WMdyR4NIUls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WMdyR4NIUls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "범빠덕션",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-17T15:32:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qrp6r9mvGORlf8EbbiSHC7A9Cw0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wHMejyKOVzQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-14T14:20:43Z",
+        "channelId": "UCVA-8wm_zaPvbs4-U9vnmXw",
+        "title": "스노우보드 전향각 베이직카빙연습 입문,독학러 다 모여!! 테크니컬 라이딩",
+        "description": "베이직카빙 처음에 뭐부터 하나요? 독학, 입문 고민 많으신분 한번쯤 보시면 좋을듯 합니다. 몸소 느낀 베이직카빙을 토대로 같이 정보 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wHMejyKOVzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wHMejyKOVzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wHMejyKOVzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "[황치원TV] 스노우보드 f0restwow",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-14T14:20:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WhQYGM-08P9ll0nJSDVz_QR9TGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0-bQ9bAAsfw"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-21T04:49:17Z",
+        "channelId": "UCjdxUU4iypXDuKFCqS7ld3g",
+        "title": "카빙 배우고 싶은사람 모여 베이직카빙 - 이윤동 편-",
+        "description": "스노우보드 #컨텐츠 #전향각 #라이딩 #시원 #로봇 안녕하세요 고쌍 입니다 오늘은 카빙을 할떄 정말 멋진형 이윤동편 을 촬영하여 그 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0-bQ9bAAsfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0-bQ9bAAsfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0-bQ9bAAsfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "고쌍TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-21T04:49:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tik3i14CwArirNc47ydgXcHIFx8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fYzyUZjV1G8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-22T11:47:11Z",
+        "channelId": "UCZ-9oup4GdUS_05k_xt53fA",
+        "title": "[강습영상] 스노보드 뒷발차는 사람 무적권 시청 | 베이직카빙 하는법 | 스노우보드 5회차 강습 전향각 S자턴 비기너턴 너비스턴 | Snowboard basic carving",
+        "description": "인생은 ADVENTURE   ·구독 https://bit.ly/3cuQVdj 베이직카빙 2편   https://youtu.be/IiT8BVYZBxQ 카빙 라이딩에서 가장 중요한건 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fYzyUZjV1G8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fYzyUZjV1G8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fYzyUZjV1G8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "허튭",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-22T11:47:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MoC2As1qwrUuEaQxPGg_StaW1RE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_JVsZAZxx94"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-03T10:50:53Z",
+        "channelId": "UC_gVLDDvLnk5FBsheKe39Zg",
+        "title": "전향각라이딩 강습 : #1 베이직 카빙",
+        "description": "스노우보드 #전향각 #베이직카빙 전향각 라이딩 강습 베이직 카빙 편입니다. 이번 시즌에 카빙트릭 강습영상 이외에도 기본적인 전향 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_JVsZAZxx94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_JVsZAZxx94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_JVsZAZxx94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팀씨티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-03T10:50:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HzXNEciDKx0PRzUqhCYYi2AZ9dQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RSJ2wYpZgFc"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-14T04:51:09Z",
+        "channelId": "UCSxtVjIlU4ONi2E0qEH6yJA",
+        "title": "베이직카빙!!! 꿀팁!!!",
+        "description": "이번영상은 카빙의 기초인 베이직카빙에 대한 간단한 팁이에요 보시고 궁금한점 있으시면 무엇이든 물어봐주세용 보고싶은 영상도 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RSJ2wYpZgFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RSJ2wYpZgFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RSJ2wYpZgFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카빙왕 김히든",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-14T04:51:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kGqpRvvHriUi4CnZNiI5I_ncIIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kAN_UEamPzo"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-09T02:30:16Z",
+        "channelId": "UCPa9D0nbnzKgLvlh_tILdog",
+        "title": "베이직 카빙 연습이 지겨워졌을때  따라하면 좋은 영상!!",
+        "description": "오늘은 베이직 카빙을 열심히 연습한 분들을 위한 다음단계 자세를 보여드릴게요! 보고 따라해보세요!!   #휘닉스파크 #스패로우 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kAN_UEamPzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kAN_UEamPzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kAN_UEamPzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DEEP CARVING",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-09T02:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AQj0PmBpxwThJWGDYQj4Ura31Fg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FnFqelNDNyE"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-12T07:01:11Z",
+        "channelId": "UC2E3tjHXF1F2HaTeSce7gEA",
+        "title": "베이직카빙이 어렵다면 이 영상 꼭 보세요!!",
+        "description": "요비트#스노우보드#전향각#휘닉스파크#딥카빙#베이직카빙.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FnFqelNDNyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FnFqelNDNyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FnFqelNDNyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스노위TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-12T07:01:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RL8RPyjVZS3qoJUTTbaCkSVmhy8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lnttJXCzpow"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-16T00:00:29Z",
+        "channelId": "UCSxtVjIlU4ONi2E0qEH6yJA",
+        "title": "온라인 강습 1주차 - 베이직카빙 + 이것?",
+        "description": "편집되고 보정된 영상보다는 실력이 가감없이 나오는 원런영상을 선호합니다 (사실 편집하기 귀찮아서 raw 영상 올리는거 맞음) ㅡㅡ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lnttJXCzpow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lnttJXCzpow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lnttJXCzpow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카빙왕 김히든",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-16T00:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "36d_1cNEhPp7EckclGp55Nllibg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mznM8npPgpg"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-09T15:11:39Z",
+        "channelId": "UCNCVgGeVm-PpjWM6gE1vDgw",
+        "title": "베이직카빙턴 강습 훔쳐보기!! 카빙턴 시선처리와 자세,  챔피언슬로프 잘 내려가는 팁까지!",
+        "description": "20200104 중급 여자 베이직카빙턴 강습 훔쳐보기 휘팍 챔피언(상급) 슬로프 몇년동안 라이딩을 했는데 이제 카빙이 하고싶은데.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mznM8npPgpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mznM8npPgpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mznM8npPgpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스노우보드강습",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-09T15:11:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gub5SjZR7X9nZpbqCE3GotPk7YY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vv61BxGwBoU"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-11T23:15:11Z",
+        "channelId": "UC07UnH6xOuMKmCUMeMuNn-g",
+        "title": "[1분 보드백과] 베이직 카빙을 왜하세요?",
+        "description": "\"남들이 하래서?\" \"맹목적으로 하는 움직임은 도움이 되지 못합니다\" 웅대장 멤버십 가입하고 라이브 풀영상 다시보기~ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vv61BxGwBoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vv61BxGwBoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vv61BxGwBoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "웅댐 - 강원도 사는 서울남자",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-11T23:15:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Shl1vfZb8oy_r4H0B4gw6CLNU-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mCgsSrwGFNI"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-31T20:16:48Z",
+        "channelId": "UC_KS69vhJ2dnZzzAgJuKtEA",
+        "title": "하이원 베이직 카빙! 두 시간만에 완성!",
+        "description": "감각이 올라올때까지 달려달려 #하이원 #카빙 #카빙턴 #스노우보드 #곤지암.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mCgsSrwGFNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mCgsSrwGFNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mCgsSrwGFNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tom Snowpark 톰 스노우파크",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-31T20:16:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PJpCwA1qoostmunxVmbBqzce3Kg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s6kTYSVRUIY"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-15T08:13:10Z",
+        "channelId": "UCaLmln5N2t6Ro0rNLVKFv8Q",
+        "title": "카빙 배우고 싶은사람 모여 2탄 안전하게 카빙하기 / 다운꿀팁",
+        "description": "카빙 배우고 싶은사람 모여 2탄 안전하게 카빙하기 / 다운꿀팁 #스노우보드 #컨텐츠 #전향각 #라이딩 #로봇 카빙펙토리 입니다 이번 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s6kTYSVRUIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s6kTYSVRUIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s6kTYSVRUIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "로봇공장 Carving Factory SnowboardMovie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-15T08:13:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CPZ4HcndbbAHD-Hafh0hWthpGro",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mQjt_CFSZgo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T02:52:36Z",
+        "channelId": "UCPa9D0nbnzKgLvlh_tILdog",
+        "title": "기다렸던 스키장 오픈! 베이직 카빙 연습 하러가자",
+        "description": "모두가 기다렸던 스키장이 오픈해서 많이들 설레실텐데요! 천리길도 한걸음부터!! 베이직 카빙부터 시작해서 몸이 보드에 차근차근 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mQjt_CFSZgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mQjt_CFSZgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mQjt_CFSZgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DEEP CARVING",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T02:52:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RDlMLl3zTxJZXXggCTcu3g5C-ac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IiT8BVYZBxQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-28T09:36:57Z",
+        "channelId": "UCZ-9oup4GdUS_05k_xt53fA",
+        "title": "[강습영상] 기다리면 턴이 자동으로 되는 이유 | 베이직카빙 S자턴 연습방법 | 스노우보드 전향각 비기너턴 너비스턴 | 뒷발차기 교정 | Snowboard basic carving",
+        "description": "인생은 ADVENTURE   ·구독 https://bit.ly/3cuQVdj 1편을 못보신 분들은 먼저 시청   https://youtu.be/fYzyUZjV1G8 기다리면 왜 자동 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IiT8BVYZBxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IiT8BVYZBxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IiT8BVYZBxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "허튭",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-28T09:36:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q8XsV_ZXzBKwSNqBCIkjWa0Aeo4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uVT7VkfXbU4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-01T08:36:39Z",
+        "channelId": "UCjArYnFY0NqVXUkls9-I6zQ",
+        "title": "카트라이더 베이직카빙",
+        "description": "덕스텐스에서 전향각으로 전향 하신, 혹은 보드를 처음 접하시는 초보들을 위한 영상 입니다 궁금한 점은 언제든 댓글로 남겨주세요~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uVT7VkfXbU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uVT7VkfXbU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uVT7VkfXbU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카트라이더",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-01T08:36:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n6mlz0-hRT4xY0C6eyxfBj0NK68",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_DmJUPZHiO4"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-12T09:17:39Z",
+        "channelId": "UC_gVLDDvLnk5FBsheKe39Zg",
+        "title": "전향각 라이딩 강습 : #2 베이직카빙 2편",
+        "description": "스노우보드 #스노우보드강습 #베이직카빙 전향각 라이딩 강습 베이직 카빙 2편 입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_DmJUPZHiO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_DmJUPZHiO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_DmJUPZHiO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "팀씨티",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-12T09:17:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e21nc_qr5gECvT7xsmBApWwBDMY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I5tRVsWyL4A"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-30T15:09:18Z",
+        "channelId": "UCeSeLImkgg5hyJhTdBz55UQ",
+        "title": "snowboard 스노우보드 Tip 10] 실전 베이직 + 다운  엉빠 탈출 (스노우보드카빙, Carving, 베이직카빙)",
+        "description": "snowboard #스노우보드 #snowboardcarving #1편 Nollie 360 Tip1 영상은 https://youtu.be/jUR94FnaGMM #2편 Nollie 720 Tip2 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I5tRVsWyL4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I5tRVsWyL4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I5tRVsWyL4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "신택호TV[직장인 취미,레져]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-30T15:09:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w0Zq2dVeBg3G4HNYMeiITS-kRwI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yu-uzvBfhtQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-12T05:51:13Z",
+        "channelId": "UC_Kw0y6D7NRS4WOeGRNRAZw",
+        "title": "[스파이더 스키 튜토리얼] 3편 베이직 카빙",
+        "description": "SPYDER Ski Tutorial - 3편 : 베이직 카빙] 올 겨울, 스키 실력을 한층 업그레이드하라! 안정감 있는 카빙 턴을 위한 스탠스 넓이와 엣지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yu-uzvBfhtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yu-uzvBfhtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yu-uzvBfhtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SPYDER KOREA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-12T05:51:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dVAAH4V2bV5-ebV75sYhDJWK1U8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tBMKXdkHV84"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-23T07:40:20Z",
+        "channelId": "UCPa9D0nbnzKgLvlh_tILdog",
+        "title": "엣지를 쉽게 세우는 카빙 팁 / 전향각 라이딩 강습 / 스노우보드",
+        "description": "베이직 카빙을 연습하시는 분들이 흔히 겪는 슬립현상을 매우 쉽게 해결할수있는 방법을 말씀드리고자 영상을 찍게 되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tBMKXdkHV84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tBMKXdkHV84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tBMKXdkHV84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DEEP CARVING",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-23T07:40:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n1DHrU_RJ7xhDyhtrabg7B_gnkw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "maijGbTzxiA"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-31T02:00:04Z",
+        "channelId": "UClvIwNWVs-7vksljQuwO52g",
+        "title": "전향각 베이직카빙 강좌 ! 라이딩 기초의 모든 것 유선근 라이더 snowboard",
+        "description": "스노우보드 #snowboard #전향각 잇몸이 흔들릴 땐 이가탄 턴이 흔들릴 땐 기초탄탄! 튜닝의 끝은 순정이라고 했던가요?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/maijGbTzxiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/maijGbTzxiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/maijGbTzxiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "December 10",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-31T02:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B1BKzGykYXFuLVrUEJyZyxYpAoA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gFzwcPBXhDI"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-14T02:18:57Z",
+        "channelId": "UCNCVgGeVm-PpjWM6gE1vDgw",
+        "title": "처음하는 카빙턴 어떻게 연습해요? - 김기훈 헤드강사님 베이직 카빙턴 원포인트!",
+        "description": "20200111 휘닉스파크 챔피언 슬로프 김기훈 헤드강사님 베이직 카빙턴 원포인트 베이직 카빙시 보드가 *폴라인에 진입하기전에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gFzwcPBXhDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gFzwcPBXhDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gFzwcPBXhDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스노우보드강습",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-14T02:18:57Z"
+      }
+    }
+  ]
+}

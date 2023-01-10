@@ -1,0 +1,1443 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "HL7_ZeWzk3ax29VC1nrccI63O4w",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "WmjTz4kvooIEzSiPg5nTNHao9lg",
+      "id": "hIrAsMmlQzg",
+      "snippet": {
+        "publishedAt": "2023-01-01T05:12:55Z",
+        "channelId": "UCzRWWsFjqHk1an4OnVPsl9g",
+        "title": "Peach Bowl: Ohio State Buckeyes vs. Georgia Bulldogs | Full Game Highlights",
+        "description": "Watch highlights from the Chick-fil-A Peach Bowl as the Georgia Bulldogs rally to beat the Ohio State Buckeyes, 42-41, and secure a spot in the College Football Playoff National Championship Game. \n\n✔️Subscribe to ESPN+ http://espnplus.com/youtube\n✔️ Get the ESPN App: http://www.espn.com/espn/apps/espn\n✔️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n✔️ Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n✔️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hIrAsMmlQzg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hIrAsMmlQzg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hIrAsMmlQzg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hIrAsMmlQzg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hIrAsMmlQzg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ESPN College Football",
+        "tags": [
+          "ohio state vs georgia",
+          "georgia",
+          "ohio state",
+          "cfp",
+          "college football playoff",
+          "peach bowl",
+          "Peach Bowl: Ohio State Buckeyes vs. Georgia Bulldogs | Full Game Highlights",
+          "ncaa",
+          "college football",
+          "2022 college football",
+          "college football highlights",
+          "2022 college football highlights",
+          "ncaa football",
+          "football highlights",
+          "cfb 2022",
+          "college football 2022",
+          "espn",
+          "college football on espn",
+          "espn college football",
+          "ncaaf",
+          "espn cfb",
+          "football"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Peach Bowl: Ohio State Buckeyes vs. Georgia Bulldogs | Full Game Highlights",
+          "description": "Watch highlights from the Chick-fil-A Peach Bowl as the Georgia Bulldogs rally to beat the Ohio State Buckeyes, 42-41, and secure a spot in the College Football Playoff National Championship Game. \n\n✔️Subscribe to ESPN+ http://espnplus.com/youtube\n✔️ Get the ESPN App: http://www.espn.com/espn/apps/espn\n✔️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n✔️ Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n✔️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0hisbUGQx2l4jqP6oMjYvZTuZeg",
+      "id": "_ZAgIHmHLdc",
+      "snippet": {
+        "publishedAt": "2023-01-02T09:00:00Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "NewJeans (뉴진스) 'OMG' Official MV",
+        "description": "NewJeans (뉴진스) 'OMG' Official MV\n\nProducer: MIN HEE JIN\nMusic Video Director: Wooseok Shin (DOLPHINERS FILM)\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans\n#ADOR #어도어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_ZAgIHmHLdc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "tags": ["HYBE", "HYBE LABELS", "하이브", "하이브레이블즈"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "NewJeans (뉴진스) 'OMG' Official MV",
+          "description": "NewJeans (뉴진스) 'OMG' Official MV\n\nProducer: MIN HEE JIN\nMusic Video Director: Wooseok Shin (DOLPHINERS FILM)\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans\n#ADOR #어도어"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dTNp_cUzV7bPy_A7Zoys31wpucE",
+      "id": "dlkG7LQJjY0",
+      "snippet": {
+        "publishedAt": "2023-01-02T06:00:07Z",
+        "channelId": "UCFKE7WVJfvaHW5q283SxchA",
+        "title": "Center - Day 1 - Show Up",
+        "description": "**The most valuable part of a centering practice is the courageous act of showing up.** \n\nThis series may look like a lot of core strengthening exercises, moves for a healthy spine, good lymphatic flow, releasing tension and decreasing chronic pain.\n\nBut, it is truly about learning and knowing who you are. And perhaps you will never know the power of this 30 days of centering with me, unless that is \n\nYou \nShow\nUp.\n\nHappy day 1! Check it off on your calendar when complete and I will see you again tomorrow!\n\nVisit the Community Page to connect and read a daily message from me: https://www.youtube.com/c/yogawithadriene/community\n\nSIGN UP at https://do.yogawithadriene.com/center to receive the full program, delivered to your inbox! This includes your free downloadable CENTER calendar with practice times so you can plan ahead. It also includes a daily message from me to help you ask questions, stay motivated, and go deeper in your practice.\n\n\n- - - - - - - - - - \n\n❤️ WELCOME to the Yoga With Adriene YouTube channel! Our mission is to connect as many people as possible through high-quality free yoga videos. We welcome all levels, all bodies, all genders, all souls! SUBSCRIBE  to the channel and join our global movement! ❤️\nhttps://www.youtube.com/user/yogawithadriene?sub_confirmation=1\n\n- - - - - - - - - -  \n\n🧘🏽‍♂️🧘‍♀️ Find What Feels Good!  🧘🏻‍♂️🧘🏿‍♀️\nhttps://fwfg.com/\nJoin the Find What Feels Good membership and access over 850 videos including yoga and meditation for all levels. Explore daily practices, workshops, in-depth learning, weekly or monthly accountability series, and an opportunity to connect with a one-of-a-kind global community. This is your one-stop shop for yoga, creativity, wellness, and all things FWFG.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dlkG7LQJjY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dlkG7LQJjY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dlkG7LQJjY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dlkG7LQJjY0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dlkG7LQJjY0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoga With Adriene",
+        "tags": [
+          "home yoga",
+          "home yoga practice",
+          "yoga at home",
+          "at home yoga",
+          "Adriene Mishler",
+          "austin yoga instructor",
+          "free yoga",
+          "free yoga videos",
+          "full yoga class",
+          "morning yoga",
+          "online yoga",
+          "yoga practice",
+          "yoga with Adrienne",
+          "30 days of yoga",
+          "Center 30 Day Yoga Journey",
+          "30 Day Yoga Journey"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Center - Day 1 - Show Up",
+          "description": "**The most valuable part of a centering practice is the courageous act of showing up.** \n\nThis series may look like a lot of core strengthening exercises, moves for a healthy spine, good lymphatic flow, releasing tension and decreasing chronic pain.\n\nBut, it is truly about learning and knowing who you are. And perhaps you will never know the power of this 30 days of centering with me, unless that is \n\nYou \nShow\nUp.\n\nHappy day 1! Check it off on your calendar when complete and I will see you again tomorrow!\n\nVisit the Community Page to connect and read a daily message from me: https://www.youtube.com/c/yogawithadriene/community\n\nSIGN UP at https://do.yogawithadriene.com/center to receive the full program, delivered to your inbox! This includes your free downloadable CENTER calendar with practice times so you can plan ahead. It also includes a daily message from me to help you ask questions, stay motivated, and go deeper in your practice.\n\n\n- - - - - - - - - - \n\n❤️ WELCOME to the Yoga With Adriene YouTube channel! Our mission is to connect as many people as possible through high-quality free yoga videos. We welcome all levels, all bodies, all genders, all souls! SUBSCRIBE  to the channel and join our global movement! ❤️\nhttps://www.youtube.com/user/yogawithadriene?sub_confirmation=1\n\n- - - - - - - - - -  \n\n🧘🏽‍♂️🧘‍♀️ Find What Feels Good!  🧘🏻‍♂️🧘🏿‍♀️\nhttps://fwfg.com/\nJoin the Find What Feels Good membership and access over 850 videos including yoga and meditation for all levels. Explore daily practices, workshops, in-depth learning, weekly or monthly accountability series, and an opportunity to connect with a one-of-a-kind global community. This is your one-stop shop for yoga, creativity, wellness, and all things FWFG."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0gKTrgwRDEeGUvbmdJWd1u6okYY",
+      "id": "RvYkeTmM1gc",
+      "snippet": {
+        "publishedAt": "2022-12-31T20:00:04Z",
+        "channelId": "UCIPPMRA040LQr5QPyJEbmXA",
+        "title": "If You Build It, I'll Pay For It!",
+        "description": "Get exclusive NordVPN deal here https://NordVPN.com/mrbeastgaming It’s risk free with Nord’s 30 day money-back guarantee!\n\nSUBSCRIBE OR YOU'LL HAVE BAD LUCK\n\nNew Merch - https://shopmrbeast.com\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n--------------------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RvYkeTmM1gc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RvYkeTmM1gc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RvYkeTmM1gc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RvYkeTmM1gc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RvYkeTmM1gc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrBeast Gaming",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "If You Build It, I'll Pay For It!",
+          "description": "Get exclusive NordVPN deal here https://NordVPN.com/mrbeastgaming It’s risk free with Nord’s 30 day money-back guarantee!\n\nSUBSCRIBE OR YOU'LL HAVE BAD LUCK\n\nNew Merch - https://shopmrbeast.com\nJoin our discord server for your chance to compete in future Minecraft challenges!\nhttps://discord.gg/mrbeastgaming\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n--------------------------------------------------------------------"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Zg21Q0LnkenLiEDELfKn9F6iL6c",
+      "id": "SEdAFDl_2g4",
+      "snippet": {
+        "publishedAt": "2023-01-01T05:58:45Z",
+        "channelId": "UCccjdJEay2hpb5scz61zY6Q",
+        "title": "Miley Cyrus & Dolly Parton Sing \"Wrecking Ball\" & \"I Will Always Love You\" | Miley’s New Year’s Eve",
+        "description": "Miley Cyrus and Dolly Parton perform a medley of \"Wrecking Ball\" and \"I Will Always Love You.\" Watch Miley’s New Year’s Eve Party hosted by Miley Cyrus and Dolly Parton on NBC and streaming on Peacock.\n\n» Subscribe for More: http://bit.ly/NBCSub\n» Stream Now: https://pck.tv/3gr5z83\n\n#NBC #MileyCyrus #NYE #NewYearsEve\n\nNBC ON SOCIAL:\nYouTube: http://www.youtube.com/nbc\nTwitter: http://Twitter.com/NBC\nFacebook: http://Facebook.com/NBC\nInstagram: http://instagram.com/nbc\n\nABOUT MILEY'S NEW YEAR'S EVE PARTY: \nLive from Miami, multi-platinum-selling superstar Miley Cyrus is back with the legendary Dolly Parton to host a star-studded evening full of amazing surprises, incredible performances and more as they ring in the New Year.\n\nFind NBC trailers, full episode highlights, previews, promos, clips, and digital exclusives here. \n\nMiley Cyrus & Dolly Parton Sing \"Wrecking Ball\" & \"I Will Always Love You\" | Miley’s New Year’s Eve\nhttps://youtu.be/SEdAFDl_2g4\n\nNBC on YouTube\nhttp://www.youtube.com/user/nbc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SEdAFDl_2g4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SEdAFDl_2g4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SEdAFDl_2g4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SEdAFDl_2g4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SEdAFDl_2g4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBC",
+        "tags": [
+          "new years eve",
+          "nbc",
+          "mileys new years eve party",
+          "miley cyrus",
+          "dolly parton",
+          "nye",
+          "new years eve on nbc",
+          "2023",
+          "wrecking ball",
+          "i will always love you",
+          "NBC",
+          "nbc network",
+          "miley cyrus new year's eve party",
+          "miley cyrus new year's eve 2022"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Miley Cyrus & Dolly Parton Sing \"Wrecking Ball\" & \"I Will Always Love You\" | Miley’s New Year’s Eve",
+          "description": "Miley Cyrus and Dolly Parton perform a medley of \"Wrecking Ball\" and \"I Will Always Love You.\" Watch Miley’s New Year’s Eve Party hosted by Miley Cyrus and Dolly Parton on NBC and streaming on Peacock.\n\n» Subscribe for More: http://bit.ly/NBCSub\n» Stream Now: https://pck.tv/3gr5z83\n\n#NBC #MileyCyrus #NYE #NewYearsEve\n\nNBC ON SOCIAL:\nYouTube: http://www.youtube.com/nbc\nTwitter: http://Twitter.com/NBC\nFacebook: http://Facebook.com/NBC\nInstagram: http://instagram.com/nbc\n\nABOUT MILEY'S NEW YEAR'S EVE PARTY: \nLive from Miami, multi-platinum-selling superstar Miley Cyrus is back with the legendary Dolly Parton to host a star-studded evening full of amazing surprises, incredible performances and more as they ring in the New Year.\n\nFind NBC trailers, full episode highlights, previews, promos, clips, and digital exclusives here. \n\nMiley Cyrus & Dolly Parton Sing \"Wrecking Ball\" & \"I Will Always Love You\" | Miley’s New Year’s Eve\nhttps://youtu.be/SEdAFDl_2g4\n\nNBC on YouTube\nhttp://www.youtube.com/user/nbc"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hsQPPclyE60sChodyWxw2EcOpEo",
+      "id": "1HKmnriYImE",
+      "snippet": {
+        "publishedAt": "2023-01-01T01:11:58Z",
+        "channelId": "UCzRWWsFjqHk1an4OnVPsl9g",
+        "title": "Fiesta Bowl: TCU Horned Frogs vs. Michigan Wolverines | College Football Playoff",
+        "description": "Check out these highlights from TCU's 51-48 win over the Michigan Wolverines in the Vrbo Fiesta Bowl, the first semifinal game of the 2022-23 College Football Playoff. Horned Frogs QB Max Duggan threw for over 250 YDS and 2 TDs.\n\n✔️Subscribe to ESPN+ http://espnplus.com/youtube\n✔️ Get the ESPN App: http://www.espn.com/espn/apps/espn\n✔️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n✔️ Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n✔️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1HKmnriYImE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1HKmnriYImE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1HKmnriYImE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1HKmnriYImE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1HKmnriYImE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ESPN College Football",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Fiesta Bowl: TCU Horned Frogs vs. Michigan Wolverines | College Football Playoff",
+          "description": "Check out these highlights from TCU's 51-48 win over the Michigan Wolverines in the Vrbo Fiesta Bowl, the first semifinal game of the 2022-23 College Football Playoff. Horned Frogs QB Max Duggan threw for over 250 YDS and 2 TDs.\n\n✔️Subscribe to ESPN+ http://espnplus.com/youtube\n✔️ Get the ESPN App: http://www.espn.com/espn/apps/espn\n✔️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n✔️ Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n✔️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EKMkWaT4YJBlUjC8YeIXgnDbHHI",
+      "id": "nIQf5YRk1vc",
+      "snippet": {
+        "publishedAt": "2023-01-01T21:56:04Z",
+        "channelId": "UC0YatYmg5JRYzXJPxIdRd8g",
+        "title": "Lens vs PSG | LIGUE 1 HIGHLIGHTS | 1/1/2023 | beIN SPORTS USA",
+        "description": "Without Messi or Neymar, PSG fell defeated 3-1 on their visit to the Stade Bollaert-Delelis. Lens added three more points in the fight for the first position in Ligue 1.\n\n#ligue1 #lens #psg\n\nCatch the latest highlights of Ligue 1🇫🇷, Turkish Süper Lig🇹🇷, \nCopa Libertadores🏆, Copa Sudamericana🥇 on our YouTube channel.\nFollow the latest news on beINSPORTS.com and stream all our games on our app beIN SPORTS CONNECT or our XTRA channels.\nDownload beIN SPORTS CONNECT on Apple devices: https://tinyurl.com/y4bd3osh\nDownload beIN SPORTS CONNECT on Android devices: https://tinyurl.com/yxlst4vj",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nIQf5YRk1vc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nIQf5YRk1vc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nIQf5YRk1vc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nIQf5YRk1vc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "beIN SPORTS USA",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lens vs PSG | LIGUE 1 HIGHLIGHTS | 1/1/2023 | beIN SPORTS USA",
+          "description": "Without Messi or Neymar, PSG fell defeated 3-1 on their visit to the Stade Bollaert-Delelis. Lens added three more points in the fight for the first position in Ligue 1.\n\n#ligue1 #lens #psg\n\nCatch the latest highlights of Ligue 1🇫🇷, Turkish Süper Lig🇹🇷, \nCopa Libertadores🏆, Copa Sudamericana🥇 on our YouTube channel.\nFollow the latest news on beINSPORTS.com and stream all our games on our app beIN SPORTS CONNECT or our XTRA channels.\nDownload beIN SPORTS CONNECT on Apple devices: https://tinyurl.com/y4bd3osh\nDownload beIN SPORTS CONNECT on Android devices: https://tinyurl.com/yxlst4vj"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5bnVoABIiO5vnBfMVqLuDrSNKhg",
+      "id": "EOWP5Y7eErE",
+      "snippet": {
+        "publishedAt": "2023-01-01T16:45:00Z",
+        "channelId": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+        "title": "Saying goodbye is hard..",
+        "description": "🧎#Subscribe🧎\n\nStock Up On ➡️🥤Gfuel (affiliate): https://gfuel.ly/pewdiepie-collection\n#Code #Pewdiepie\n\n👘 New Pre-Order for Tsuki: https://bit.ly/3xrWsgY\n\n📱Customized Devices: https://rhinoshield.io/pewdiepie\n\n⛰️NordVPN DOWNLOAD (affiliate link)⛰️\nGo to https://NordVPN.com/pewdiepie and use code PEWDIEPIE to get a 2-year plan plus 1 additional month with a huge discount. It’s risk free with Nord’s 30 day money-back guarantee!\n\n⚙️My Setup (affiliate links)⚙️\n🪑 Chair: https://bit.ly/3r51IUS\n💻 Browser: https://operagx.gg/Pewds\n⌨️ 🖱️ Keyboard & Mouse: https://ghostkeyboards.com/pages/pewd...\n\n🕹️ Pewdiepie's Pixelings\niOS: https://buff.ly/2pNG0aT\nAndroid: https://buff.ly/34C68nZ\n\n🕹️Pewdiepie’s Tuber Simulator\niOS: https://apps.apple.com/us/app/pewdiep...\nAndroid: https://play.google.com/store/apps/de...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EOWP5Y7eErE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EOWP5Y7eErE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EOWP5Y7eErE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EOWP5Y7eErE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EOWP5Y7eErE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PewDiePie",
+        "tags": ["pewdiepie", "pewds", "pewdie"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Saying goodbye is hard..",
+          "description": "🧎#Subscribe🧎\n\nStock Up On ➡️🥤Gfuel (affiliate): https://gfuel.ly/pewdiepie-collection\n#Code #Pewdiepie\n\n👘 New Pre-Order for Tsuki: https://bit.ly/3xrWsgY\n\n📱Customized Devices: https://rhinoshield.io/pewdiepie\n\n⛰️NordVPN DOWNLOAD (affiliate link)⛰️\nGo to https://NordVPN.com/pewdiepie and use code PEWDIEPIE to get a 2-year plan plus 1 additional month with a huge discount. It’s risk free with Nord’s 30 day money-back guarantee!\n\n⚙️My Setup (affiliate links)⚙️\n🪑 Chair: https://bit.ly/3r51IUS\n💻 Browser: https://operagx.gg/Pewds\n⌨️ 🖱️ Keyboard & Mouse: https://ghostkeyboards.com/pages/pewd...\n\n🕹️ Pewdiepie's Pixelings\niOS: https://buff.ly/2pNG0aT\nAndroid: https://buff.ly/34C68nZ\n\n🕹️Pewdiepie’s Tuber Simulator\niOS: https://apps.apple.com/us/app/pewdiep...\nAndroid: https://play.google.com/store/apps/de..."
+        },
+        "defaultAudioLanguage": "en-GB"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1-A9jcEBf51XGfFLXAqk1tLpLq8",
+      "id": "x7-d2R2PlpQ",
+      "snippet": {
+        "publishedAt": "2023-01-01T06:09:42Z",
+        "channelId": "UCccjdJEay2hpb5scz61zY6Q",
+        "title": "Dolly Parton and Miley Cyrus' Iconic \"Jolene\" Performance and More | Miley’s New Year’s Eve on NBC",
+        "description": "Dolly Parton and Miley Cyrus sing Dolly's classic hit \"Jolene\" and Patsy Cline's \"Walkin' After Midnight.\" Watch Miley’s New Year’s Eve Party hosted by Miley Cyrus and Dolly Parton on NBC and streaming on Peacock.\n\n» Subscribe for More: http://bit.ly/NBCSub\n» Stream Now: https://pck.tv/3gr5z83\n\n#NBC #MileyCyrus #NYE #NewYearsEve\n\nNBC ON SOCIAL:\nYouTube: http://www.youtube.com/nbc\nTwitter: http://Twitter.com/NBC\nFacebook: http://Facebook.com/NBC\nInstagram: http://instagram.com/nbc\n\nABOUT MILEY'S NEW YEAR'S EVE PARTY: \nLive from Miami, multi-platinum-selling superstar Miley Cyrus is back with the legendary Dolly Parton to host a star-studded evening full of amazing surprises, incredible performances and more as they ring in the New Year.\n\nFind NBC trailers, full episode highlights, previews, promos, clips, and digital exclusives here. \n\nDolly Parton and Miley Cyrus' Iconic \"Jolene\" Performance and More | Miley’s New Year’s Eve on NBC\nhttps://youtu.be/x7-d2R2PlpQ\n\nNBC on YouTube\nhttp://www.youtube.com/user/nbc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x7-d2R2PlpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x7-d2R2PlpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x7-d2R2PlpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x7-d2R2PlpQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x7-d2R2PlpQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBC",
+        "tags": [
+          "new years eve",
+          "nbc",
+          "mileys new years eve party",
+          "miley cyrus",
+          "dolly parton",
+          "nye",
+          "new years eve on nbc",
+          "2023",
+          "jolene",
+          "walkin' after midnight",
+          "patsy cline",
+          "NBC",
+          "nbc network",
+          "miley cyrus new year's eve party",
+          "miley cyrus new year's eve 2022"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dolly Parton and Miley Cyrus' Iconic \"Jolene\" Performance and More | Miley’s New Year’s Eve on NBC",
+          "description": "Dolly Parton and Miley Cyrus sing Dolly's classic hit \"Jolene\" and Patsy Cline's \"Walkin' After Midnight.\" Watch Miley’s New Year’s Eve Party hosted by Miley Cyrus and Dolly Parton on NBC and streaming on Peacock.\n\n» Subscribe for More: http://bit.ly/NBCSub\n» Stream Now: https://pck.tv/3gr5z83\n\n#NBC #MileyCyrus #NYE #NewYearsEve\n\nNBC ON SOCIAL:\nYouTube: http://www.youtube.com/nbc\nTwitter: http://Twitter.com/NBC\nFacebook: http://Facebook.com/NBC\nInstagram: http://instagram.com/nbc\n\nABOUT MILEY'S NEW YEAR'S EVE PARTY: \nLive from Miami, multi-platinum-selling superstar Miley Cyrus is back with the legendary Dolly Parton to host a star-studded evening full of amazing surprises, incredible performances and more as they ring in the New Year.\n\nFind NBC trailers, full episode highlights, previews, promos, clips, and digital exclusives here. \n\nDolly Parton and Miley Cyrus' Iconic \"Jolene\" Performance and More | Miley’s New Year’s Eve on NBC\nhttps://youtu.be/x7-d2R2PlpQ\n\nNBC on YouTube\nhttp://www.youtube.com/user/nbc"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j2cpVwJ7E-b0TImgBVjFhhF1t64",
+      "id": "6TqhcZsxrPA",
+      "snippet": {
+        "publishedAt": "2023-01-02T04:06:59Z",
+        "channelId": "UCsN32BtMd0IoByjJRNF12cw",
+        "title": "Earth currently experiencing a sixth mass extinction, according to scientists | 60 Minutes",
+        "description": "Leading biologist tells Scott Pelley humans would need “five more Earths” to maintain our current way of life.\n\n#60Minutes #News #Extinction\n\n\"60 Minutes\" is the most successful television broadcast in history. Offering hard-hitting investigative reports, interviews, feature segments and profiles of people in the news, the broadcast began in 1968 and is still a hit, over 50 seasons later, regularly making Nielsen's Top 10.\n\nSubscribe to the “60 Minutes” YouTube channel: http://bit.ly/1S7CLRu\nWatch full episodes: http://cbsn.ws/1Qkjo1F\nGet more “60 Minutes” from “60 Minutes: Overtime”: http://cbsn.ws/1KG3sdr\nFollow “60 Minutes” on Instagram: http://bit.ly/23Xv8Ry\nLike “60 Minutes” on Facebook: http://on.fb.me/1Xb1Dao\nFollow “60 Minutes” on Twitter: http://bit.ly/1KxUsqX\nSubscribe to our newsletter: http://cbsn.ws/1RqHw7T\nDownload the CBS News app: http://cbsn.ws/1Xb1WC8\nTry Paramount+ free: https://bit.ly/2OiW1kZ\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6TqhcZsxrPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6TqhcZsxrPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6TqhcZsxrPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6TqhcZsxrPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6TqhcZsxrPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "60 Minutes",
+        "tags": ["60 Minutes", "CBS News", "mass extinction"],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Earth currently experiencing a sixth mass extinction, according to scientists | 60 Minutes",
+          "description": "Leading biologist tells Scott Pelley humans would need “five more Earths” to maintain our current way of life.\n\n#60Minutes #News #Extinction\n\n\"60 Minutes\" is the most successful television broadcast in history. Offering hard-hitting investigative reports, interviews, feature segments and profiles of people in the news, the broadcast began in 1968 and is still a hit, over 50 seasons later, regularly making Nielsen's Top 10.\n\nSubscribe to the “60 Minutes” YouTube channel: http://bit.ly/1S7CLRu\nWatch full episodes: http://cbsn.ws/1Qkjo1F\nGet more “60 Minutes” from “60 Minutes: Overtime”: http://cbsn.ws/1KG3sdr\nFollow “60 Minutes” on Instagram: http://bit.ly/23Xv8Ry\nLike “60 Minutes” on Facebook: http://on.fb.me/1Xb1Dao\nFollow “60 Minutes” on Twitter: http://bit.ly/1KxUsqX\nSubscribe to our newsletter: http://cbsn.ws/1RqHw7T\nDownload the CBS News app: http://cbsn.ws/1Xb1WC8\nTry Paramount+ free: https://bit.ly/2OiW1kZ\n\nFor video licensing inquiries, contact: licensing@veritone.com"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0CrHMFj9kGUoSSKbl8EMHK7e9IY",
+      "id": "n_DtpY9wbGg",
+      "snippet": {
+        "publishedAt": "2022-12-31T14:59:56Z",
+        "channelId": "UCRijo3ddMTht_IHyNSNXpNQ",
+        "title": "Dude Perfect vs. Luka Doncic (1-on-1)",
+        "description": "Cody vs Luka in 1-on-1, Trick Shots with Luka, and he joins us for Cool Not Cool! Thank you Chime for sponsoring this video! Click this link to learn more https://www.chime.com/dudeperfect/\n\n► Thanks for subscribing! - http://bit.ly/SubDudePerfect\n► Subscribe to Luka's Channel HERE: https://www.youtube.com/@lukadoncic\n\nBanking services and debit card provided by The Bancorp Bank, N.A. or Stride Bank, N.A., Members FDIC.  The Chime Credit Builder Secured Visa® Credit Card is issued by Stride Bank, N.A. pursuant to a license from Visa U.S.A.  Chime received the highest 2022 Qualtrics NPS score.  Out-of-network ATM withdrawal fees may apply except at Moneypass ATMs in a 7-Eleven location, or any Allpoint or Visa Plus Alliance ATM.  Early access to direct deposit funds depends on payer.  SpotMe eligibility requirements apply. Overdraft only applies to debit card purchases and cash withdrawals. Limits start at $20 and may be increased up to $200 by Chime.\n\nNEXT LEVEL STUFF \n-------------------------------------------\n🎒 NEW Merch - http://bit.ly/DPStore\n📱 Text us - (469) 205-7005\n🔔 Hit the bell next to Subscribe so you don't miss a video!\n👨🏻‍💻 Watch our newest vids! - http://bit.ly/NewDPVids\n📕 Read our Book - \"101 Tips, Tricks and Cool Stuff\" - https://bit.ly/NewDPBook\n\nFollow our Instagrams so we can be best friends \n-------------------------------------------\n🏆 http://Instagram.com/DudePerfect\n🧔🏻 http://Instagram.com/TylerNToney\n👱🏻‍♂️ http://Instagram.com/Cody_Jones_\n🙋🏻‍♂️ http://Instagram.com/CobyCotton\n👨‍🦰 http://Instagram.com/GarrettHilbert\n⛹🏻‍♂️ http://Instagram.com/CoryCotton\n-------------------------------------------\nBonus points if you're still reading this! \nComment: What was your favorite moment with Luka?\n\nClick here to learn more about Dude Perfect:\nhttp://bit.ly/AboutDudePerfect\n\nAs always...Go Big and God Bless!\n- Your friends at Dude Perfect\n\nBusiness or Media, please contact us at: \nDude@DudePerfect.com\n\nCredit Card is issued by Stride Bank, N.A. pursuant to a license from Visa U.S.A.  Chime received the highest 2022 Qualtrics NPS score.  Out-of-network ATM withdrawal fees may apply except at MoneyPass ATMs in a 7-Eleven location, or any Allpoint or Visa Plus Alliance ATM.  Early access to direct deposit funds depends on payer.  SpotMe eligibility requirements apply. Overdraft only applies to debit card purchases and cash withdrawals. Limits start at $20 and may be increased up to $200 by Chime.\n------------\n\n5 Best Friends and a Panda.\nIf you like Sports + Comedy, come join the Dude Perfect team!\n\nBest known for trick shots, stereotypes, battles, bottle flips, ping pong shots and all-around competitive fun, Dude Perfect prides ourselves in making the absolute best family-friendly entertainment possible! Welcome to the crew! \n\nPound it 👊🏻 Noggin 🙇🏻‍♂️ \n- Dude Perfect",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_DtpY9wbGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_DtpY9wbGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_DtpY9wbGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n_DtpY9wbGg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n_DtpY9wbGg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dude Perfect",
+        "tags": [
+          "dude perfect",
+          "dude perfect stereotypes",
+          "dude perfect water bottle flip",
+          "bottle flip",
+          "water bottle flip",
+          "dude perfect basketball",
+          "dp",
+          "dude perfect world record",
+          "edition",
+          "nerf",
+          "trick shots",
+          "trick shot",
+          "family",
+          "ping pong",
+          "bowling",
+          "clean",
+          "family friendly",
+          "bubble wrap",
+          "soccer",
+          "football",
+          "dude",
+          "luka",
+          "doncic",
+          "Dončić",
+          "nba",
+          "basketball",
+          "dallas",
+          "mavericks",
+          "one on one",
+          "horny toad",
+          "overtime",
+          "online checking account",
+          "debit card",
+          "free checking account",
+          "fee free overdraft",
+          "credit card to build credit"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dude Perfect vs. Luka Doncic (1-on-1)",
+          "description": "Cody vs Luka in 1-on-1, Trick Shots with Luka, and he joins us for Cool Not Cool! Thank you Chime for sponsoring this video! Click this link to learn more https://www.chime.com/dudeperfect/\n\n► Thanks for subscribing! - http://bit.ly/SubDudePerfect\n► Subscribe to Luka's Channel HERE: https://www.youtube.com/@lukadoncic\n\nBanking services and debit card provided by The Bancorp Bank, N.A. or Stride Bank, N.A., Members FDIC.  The Chime Credit Builder Secured Visa® Credit Card is issued by Stride Bank, N.A. pursuant to a license from Visa U.S.A.  Chime received the highest 2022 Qualtrics NPS score.  Out-of-network ATM withdrawal fees may apply except at Moneypass ATMs in a 7-Eleven location, or any Allpoint or Visa Plus Alliance ATM.  Early access to direct deposit funds depends on payer.  SpotMe eligibility requirements apply. Overdraft only applies to debit card purchases and cash withdrawals. Limits start at $20 and may be increased up to $200 by Chime.\n\nNEXT LEVEL STUFF \n-------------------------------------------\n🎒 NEW Merch - http://bit.ly/DPStore\n📱 Text us - (469) 205-7005\n🔔 Hit the bell next to Subscribe so you don't miss a video!\n👨🏻‍💻 Watch our newest vids! - http://bit.ly/NewDPVids\n📕 Read our Book - \"101 Tips, Tricks and Cool Stuff\" - https://bit.ly/NewDPBook\n\nFollow our Instagrams so we can be best friends \n-------------------------------------------\n🏆 http://Instagram.com/DudePerfect\n🧔🏻 http://Instagram.com/TylerNToney\n👱🏻‍♂️ http://Instagram.com/Cody_Jones_\n🙋🏻‍♂️ http://Instagram.com/CobyCotton\n👨‍🦰 http://Instagram.com/GarrettHilbert\n⛹🏻‍♂️ http://Instagram.com/CoryCotton\n-------------------------------------------\nBonus points if you're still reading this! \nComment: What was your favorite moment with Luka?\n\nClick here to learn more about Dude Perfect:\nhttp://bit.ly/AboutDudePerfect\n\nAs always...Go Big and God Bless!\n- Your friends at Dude Perfect\n\nBusiness or Media, please contact us at: \nDude@DudePerfect.com\n\nCredit Card is issued by Stride Bank, N.A. pursuant to a license from Visa U.S.A.  Chime received the highest 2022 Qualtrics NPS score.  Out-of-network ATM withdrawal fees may apply except at MoneyPass ATMs in a 7-Eleven location, or any Allpoint or Visa Plus Alliance ATM.  Early access to direct deposit funds depends on payer.  SpotMe eligibility requirements apply. Overdraft only applies to debit card purchases and cash withdrawals. Limits start at $20 and may be increased up to $200 by Chime.\n------------\n\n5 Best Friends and a Panda.\nIf you like Sports + Comedy, come join the Dude Perfect team!\n\nBest known for trick shots, stereotypes, battles, bottle flips, ping pong shots and all-around competitive fun, Dude Perfect prides ourselves in making the absolute best family-friendly entertainment possible! Welcome to the crew! \n\nPound it 👊🏻 Noggin 🙇🏻‍♂️ \n- Dude Perfect"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ByC5wcdgOIllaVsFT-bwWcZF_1g",
+      "id": "_3Wah0P7uBM",
+      "snippet": {
+        "publishedAt": "2023-01-01T15:30:04Z",
+        "channelId": "UCAM2fyCjEdROyELretVTiiw",
+        "title": "I Spent $10,000 on an ABANDONED STORAGE UNIT",
+        "description": "THIS is what happens to people's storage units when they stop paying the rent! It goes to an auction where WE can buy it! Come with me to open this unit to see what treasures we can find.\nWatch THESE videos next:\nI Bought LOST MAIL Packages for CHEAP:\nhttps://www.youtube.com/watch?v=UrbkoZZF_IY&list=PLNwTWSLp87CwMxW5MYXrcpFRBtjXJErXj&index=5&t=6s\nI Bought a TRUCKLOAD of lost Cargo Packages!\nhttps://www.youtube.com/watch?v=UsakMDj9FOs&list=PLNwTWSLp87CwMxW5MYXrcpFRBtjXJErXj&index=8\nI Bought LOST LUGGAGE for CHEAP:\nhttps://youtube.com/playlist?list=PLNwTWSLp87CygxYcuObYIecjWEtOw5YG8\nSubscribe to my shorts channel!\nhttps://www.youtube.com/channel/UCnk1idRUmwhdpy_5Il1unfw\n\nTEXT ME a “Hi’ to 1-310-582-5313 so we can stay in touch and you can be first to know about new website listings!\n(It's free! Available for US and Canada residents- regular text rates may apply. I do NOT use telegram or watsapp. If someone comments telling you to contact them there, its a SCAM)\n\n@HopeScope on INSTAGRAM for Giveaways, workouts and more!\nhttps://www.instagram.com/hopescope\n\n@HopeScope on TIKTOK for some laughs\n\nBUSINESS INQUIRIES ONLY:\ntyler@hopescopepromotions.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_3Wah0P7uBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_3Wah0P7uBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_3Wah0P7uBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_3Wah0P7uBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_3Wah0P7uBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HopeScope",
+        "tags": [
+          "storage unit",
+          "storage wars",
+          "auction",
+          "thrifting",
+          "cheap designer",
+          "cheap name brand",
+          "fashion",
+          "clothing",
+          "lost and found",
+          "unique find",
+          "unclaimed",
+          "Louis Vuitton",
+          "abandoned storage unit",
+          "i bought an abandoned storage unit",
+          "I Bought a Storage Unit & Found This..",
+          "MrBeast",
+          "abandoned storage unit haul",
+          "mystery haul",
+          "mystery box haul",
+          "storage unit buying",
+          "safiya nygaard",
+          "storage unit finds",
+          "Treasure Hunting",
+          "Abandoned Exploration Squad",
+          "hopescope"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Spent $10,000 on an ABANDONED STORAGE UNIT",
+          "description": "THIS is what happens to people's storage units when they stop paying the rent! It goes to an auction where WE can buy it! Come with me to open this unit to see what treasures we can find.\nWatch THESE videos next:\nI Bought LOST MAIL Packages for CHEAP:\nhttps://www.youtube.com/watch?v=UrbkoZZF_IY&list=PLNwTWSLp87CwMxW5MYXrcpFRBtjXJErXj&index=5&t=6s\nI Bought a TRUCKLOAD of lost Cargo Packages!\nhttps://www.youtube.com/watch?v=UsakMDj9FOs&list=PLNwTWSLp87CwMxW5MYXrcpFRBtjXJErXj&index=8\nI Bought LOST LUGGAGE for CHEAP:\nhttps://youtube.com/playlist?list=PLNwTWSLp87CygxYcuObYIecjWEtOw5YG8\nSubscribe to my shorts channel!\nhttps://www.youtube.com/channel/UCnk1idRUmwhdpy_5Il1unfw\n\nTEXT ME a “Hi’ to 1-310-582-5313 so we can stay in touch and you can be first to know about new website listings!\n(It's free! Available for US and Canada residents- regular text rates may apply. I do NOT use telegram or watsapp. If someone comments telling you to contact them there, its a SCAM)\n\n@HopeScope on INSTAGRAM for Giveaways, workouts and more!\nhttps://www.instagram.com/hopescope\n\n@HopeScope on TIKTOK for some laughs\n\nBUSINESS INQUIRIES ONLY:\ntyler@hopescopepromotions.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vmlcdiAnGnFX4Q91XlEh38w_woQ",
+      "id": "pgbNZdrn_2s",
+      "snippet": {
+        "publishedAt": "2023-01-02T02:03:15Z",
+        "channelId": "UCXn8eue3paGXJyI5UDQIyWg",
+        "title": "NFL Playoff Picture: Steve Kornacki gives a bird's-eye view after Week 17 | FNIA | NBC Sports",
+        "description": "Steve Kornacki runs through which teams have been eliminated from playoff contention and who still has a path to the postseason after Week 17. #NBCSports #FNIA #NFL\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Watch SNF on NBCSports.com: https://www.nbcsports.com/nfl/sunday-night-football\n» Get more NFL news on NBC Sports: https://www.nbcsports.com/nfl\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NHL, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more. Subscribe to our channel for the latest sporting news and highlights!\n\nSunday Night is Football Night on NBC as SNF continues to be America’s #1 Primetime show. NBC is also home to two NFL playoff games each season – one Wild Card Playoff game and one Divisional Playoff game – and offers full streaming rights on NBC Sports.com and the NBC Sports App.\n\nEmmy Award winners Al Michaels and Cris Collinsworth continue to follow all the action from the booth, along with Michele Tafoya from the field.\n\nVisit NBC Sports: https://www.nbcsports.com\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/\n\nhttps://www.nbcsports.com/nfl/sunday-night-football\nhttps://nbcsports.com/motors/nascar\nhttps://nbcsports.com/soccer/premier-league\n\nNFL Playoff Picture: Steve Kornacki gives bird's-eye view coming out of Week 17 | FNIA | NBC Sports\nhttps://www.youtube.com/nbcsports",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pgbNZdrn_2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pgbNZdrn_2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pgbNZdrn_2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pgbNZdrn_2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pgbNZdrn_2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NFL on NBC",
+        "tags": [
+          "NFL",
+          "nfl football",
+          "football night in america",
+          "nbc sports",
+          "nbc",
+          "football",
+          "nfl week 17",
+          "nfl playoff picture",
+          "playoffs",
+          "postseason",
+          "playoff picture",
+          "steve kornacki",
+          "kornacki",
+          "kornacki playoff picture",
+          "nfc",
+          "nfc playoff picture",
+          "nfc playoff",
+          "steve kornacki football night in america",
+          "kornacki fnia",
+          "kornacki postseason odds",
+          "kornacki postseason",
+          "AFC",
+          "afc playoffs",
+          "afc playoff picture"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NFL Playoff Picture: Steve Kornacki gives a bird's-eye view after Week 17 | FNIA | NBC Sports",
+          "description": "Steve Kornacki runs through which teams have been eliminated from playoff contention and who still has a path to the postseason after Week 17. #NBCSports #FNIA #NFL\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Watch SNF on NBCSports.com: https://www.nbcsports.com/nfl/sunday-night-football\n» Get more NFL news on NBC Sports: https://www.nbcsports.com/nfl\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NHL, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more. Subscribe to our channel for the latest sporting news and highlights!\n\nSunday Night is Football Night on NBC as SNF continues to be America’s #1 Primetime show. NBC is also home to two NFL playoff games each season – one Wild Card Playoff game and one Divisional Playoff game – and offers full streaming rights on NBC Sports.com and the NBC Sports App.\n\nEmmy Award winners Al Michaels and Cris Collinsworth continue to follow all the action from the booth, along with Michele Tafoya from the field.\n\nVisit NBC Sports: https://www.nbcsports.com\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/\n\nhttps://www.nbcsports.com/nfl/sunday-night-football\nhttps://nbcsports.com/motors/nascar\nhttps://nbcsports.com/soccer/premier-league\n\nNFL Playoff Picture: Steve Kornacki gives bird's-eye view coming out of Week 17 | FNIA | NBC Sports\nhttps://www.youtube.com/nbcsports"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "G4-qLUaISzottJ2Bj0g5LzoJnMU",
+      "id": "2-QVvzIvsDs",
+      "snippet": {
+        "publishedAt": "2023-01-01T05:21:44Z",
+        "channelId": "UCVaXclURQZlakiTMzuwHvRw",
+        "title": "Times Square 2023 Ball Drop in New York City: full video",
+        "description": "The annual tradition was back in full force as hundreds of thousands rang in the New Year in New York City's Times Square.\nFollow us on Twitter: @WLTX\r\nFollow us on Facebook: @WLTXNews19\r\nCheck out our website: WLTX.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2-QVvzIvsDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2-QVvzIvsDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2-QVvzIvsDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2-QVvzIvsDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2-QVvzIvsDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "News 19 WLTX",
+        "tags": [
+          "wltx",
+          "news19",
+          "trending",
+          "viral",
+          "latest",
+          "newest",
+          "columbia",
+          "sc",
+          "midlands",
+          "news",
+          "weather",
+          "sports",
+          "scsouthcarolina19"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Times Square 2023 Ball Drop in New York City: full video",
+          "description": "The annual tradition was back in full force as hundreds of thousands rang in the New Year in New York City's Times Square.\nFollow us on Twitter: @WLTX\r\nFollow us on Facebook: @WLTXNews19\r\nCheck out our website: WLTX.com"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AUvve8x94r7GO3QhDtD8rjT7Gz4",
+      "id": "hWUHR6np0_k",
+      "snippet": {
+        "publishedAt": "2023-01-01T18:00:22Z",
+        "channelId": "UCT2X19JJaJGUN7mrYuImANQ",
+        "title": "Terry Fator Performs Unforgettable Ventriloquism | AGT: All-Stars 2023",
+        "description": "Las Vegas icon Terry Fator returns to the AGT stage to share his incredible ventriloquism! \n\n» Get The America's Got Talent App: http://bit.ly/AGTAppDownload\n» Subscribe for More: http://bit.ly/AGTSub\n» Watch on NBC & Peacock: https://pck.tv/3cCQGhH\n\nAMERICA'S GOT TALENT ON SOCIAL\nLike AGT: https://www.facebook.com/agt\nFollow AGT: https://twitter.com/agt\nAGT Instagram: http://instagram.com/agt\n\nFind America's Got Talent trailers, full episode highlights, previews, promos, clips, and digital exclusives here.\n\nNBC ON SOCIAL:\nYouTube: http://www.youtube.com/nbc\nTwitter: http://Twitter.com/NBC\nFacebook: http://Facebook.com/NBC\nInstagram: http://instagram.com/nbc\n\nTerry Fator Performs Unforgettable Ventriloquism | AGT: All-Stars 2023\nhttps://youtu.be/hWUHR6np0_k\n\nAmerica's Got Talent\nhttp://www.youtube.com/user/americasgottalent\n#AGT #AmericasGotTalent #AGTAllStars",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hWUHR6np0_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hWUHR6np0_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hWUHR6np0_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hWUHR6np0_k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hWUHR6np0_k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "America's Got Talent",
+        "tags": [
+          "Simon Cowell",
+          "America's Got Talent",
+          "AGT",
+          "Got Talent",
+          "AGT: All-Stars",
+          "AGT All-Stars",
+          "AGT Allstars",
+          "America's Got Talent All Stars",
+          "America's Got Talent All-Stars",
+          "AGT 2023",
+          "America's Got Talent 2023",
+          "Allstars",
+          "All-Stars",
+          "Got Talent 2023",
+          "AGT 2022",
+          "Terry Fator",
+          "Terry Fator AGT",
+          "Terry Fator AGT: All-Stars",
+          "Terry Fator AGT AllStars",
+          "Ventriloquist",
+          "Ventriloquism",
+          "Las Vegas Ventriloquist",
+          "Elton John",
+          "Dua Lipa",
+          "Rocket Man by Elton John",
+          "Rocketman",
+          "Rocket Man Ventriloquist"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Terry Fator Performs Unforgettable Ventriloquism | AGT: All-Stars 2023",
+          "description": "Las Vegas icon Terry Fator returns to the AGT stage to share his incredible ventriloquism! \n\n» Get The America's Got Talent App: http://bit.ly/AGTAppDownload\n» Subscribe for More: http://bit.ly/AGTSub\n» Watch on NBC & Peacock: https://pck.tv/3cCQGhH\n\nAMERICA'S GOT TALENT ON SOCIAL\nLike AGT: https://www.facebook.com/agt\nFollow AGT: https://twitter.com/agt\nAGT Instagram: http://instagram.com/agt\n\nFind America's Got Talent trailers, full episode highlights, previews, promos, clips, and digital exclusives here.\n\nNBC ON SOCIAL:\nYouTube: http://www.youtube.com/nbc\nTwitter: http://Twitter.com/NBC\nFacebook: http://Facebook.com/NBC\nInstagram: http://instagram.com/nbc\n\nTerry Fator Performs Unforgettable Ventriloquism | AGT: All-Stars 2023\nhttps://youtu.be/hWUHR6np0_k\n\nAmerica's Got Talent\nhttp://www.youtube.com/user/americasgottalent\n#AGT #AmericasGotTalent #AGTAllStars"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Qq-RxCfSKdBwTI1Jo6SMu9746s0",
+      "id": "tUCT82t1Y8Q",
+      "snippet": {
+        "publishedAt": "2023-01-01T13:00:24Z",
+        "channelId": "UCcdX97nVNsZgAA0NxvHnU9w",
+        "title": "GOT the beat 'Stamp On It' Stage Video",
+        "description": "From SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA\n🏰 SMTOWN LIVE 2023 Playlist https://www.youtube.com/playlist?list=PLA91TLEzZINtzq52wJRrPUNqogo34ypJ1\n\nGOT the beat's first mini album \"Stamp On It\" will be released on January 16th (KST).\n\nGirls On Top Official\nhttps://www.youtube.com/GOT_smtown\nhttps://www.facebook.com/GirlsOnTop.SM\nhttps://www.instagram.com/girlsontop_sm\nhttps://twitter.com/GirlsOnTop_SM\nhttps://www.tiktok.com/@girlsontop_sm\n\n#GOT_the_beat #갓더비트 #StampOnIt\n#SMTOWN_LIVE #SMCU_PALACE #SMTOWN2023\n#GirlsOnTop #GOT #걸스온탑\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tUCT82t1Y8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tUCT82t1Y8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tUCT82t1Y8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tUCT82t1Y8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tUCT82t1Y8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Girls On Top",
+        "tags": [
+          "got the beat",
+          "갓더비트",
+          "보아",
+          "boa",
+          "소녀시대",
+          "girls' generation",
+          "snsd",
+          "태연",
+          "taeyeon",
+          "효연",
+          "hyoyeon",
+          "hyo",
+          "레드벨벳",
+          "red velvet",
+          "슬기",
+          "seulgi",
+          "웬디",
+          "wendy",
+          "에스파",
+          "aespa",
+          "카리나",
+          "karina",
+          "윈터",
+          "winter",
+          "girls on top",
+          "stamp on it",
+          "choreography",
+          "stage",
+          "video",
+          "dance",
+          "스탬프온잇",
+          "안무",
+          "무대",
+          "라이브",
+          "smcu",
+          "smtown",
+          "2023"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "GOT the beat 'Stamp On It' Stage Video",
+          "description": "From SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA\n🏰 SMTOWN LIVE 2023 Playlist https://www.youtube.com/playlist?list=PLA91TLEzZINtzq52wJRrPUNqogo34ypJ1\n\nGOT the beat's first mini album \"Stamp On It\" will be released on January 16th (KST).\n\nGirls On Top Official\nhttps://www.youtube.com/GOT_smtown\nhttps://www.facebook.com/GirlsOnTop.SM\nhttps://www.instagram.com/girlsontop_sm\nhttps://twitter.com/GirlsOnTop_SM\nhttps://www.tiktok.com/@girlsontop_sm\n\n#GOT_the_beat #갓더비트 #StampOnIt\n#SMTOWN_LIVE #SMCU_PALACE #SMTOWN2023\n#GirlsOnTop #GOT #걸스온탑\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KTu9LUPnGjn8ldMA3Paf30xN4do",
+      "id": "QaLUbBpcuyY",
+      "snippet": {
+        "publishedAt": "2023-01-01T23:00:58Z",
+        "channelId": "UC9mBJdNZxwE-La5vX0Kozvg",
+        "title": "its time",
+        "description": "Animal Crossing but Viewer Islands FINALLY arrive once again\n\nTHANK YOU TO SO SO SO SO MANY PEOPLE FOR HELPING WITH THIS!!\n\r\nFirstly thank you to Noteblock for editing this project!\nSecondly thank you to all the viewers who submitted their islands and put so much work into them!\n\nAnd finally, thank you to all the amazing people who helped voice this video and bring it to life!!\n@GGGabrielGaming \n@Etce \n@NoteBlock \n@JayMoji \n@LightLazer \n@explodingtnt \n@DougDoug \n@Fyrus \n@TaloHalo \n@skipthetutorial \n@hackerling \nEspeonSweetie\nAnissa\nBagel\nKorie\n\n\r\n►JOIN THE FAILBOAT DISCORD:\r\n    https://discord.gg/Failboat\r\n\r\n►FOLLOW THE BOAT:\r\n    https://Twitter.com/Failboat103\r\n\r\n\r\n#animalcrossing \r\n\r\n\r\n\r\nDon't forget to like and subscribe!\r\n\r\n:D",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QaLUbBpcuyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QaLUbBpcuyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QaLUbBpcuyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QaLUbBpcuyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QaLUbBpcuyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Failboat",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "its time",
+          "description": "Animal Crossing but Viewer Islands FINALLY arrive once again\n\nTHANK YOU TO SO SO SO SO MANY PEOPLE FOR HELPING WITH THIS!!\n\r\nFirstly thank you to Noteblock for editing this project!\nSecondly thank you to all the viewers who submitted their islands and put so much work into them!\n\nAnd finally, thank you to all the amazing people who helped voice this video and bring it to life!!\n@GGGabrielGaming \n@Etce \n@NoteBlock \n@JayMoji \n@LightLazer \n@explodingtnt \n@DougDoug \n@Fyrus \n@TaloHalo \n@skipthetutorial \n@hackerling \nEspeonSweetie\nAnissa\nBagel\nKorie\n\n\r\n►JOIN THE FAILBOAT DISCORD:\r\n    https://discord.gg/Failboat\r\n\r\n►FOLLOW THE BOAT:\r\n    https://Twitter.com/Failboat103\r\n\r\n\r\n#animalcrossing \r\n\r\n\r\n\r\nDon't forget to like and subscribe!\r\n\r\n:D"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TFzttQ_HxHoUgayu8c4b91w8eDk",
+      "id": "XMOLg_E9Fh0",
+      "snippet": {
+        "publishedAt": "2023-01-01T15:15:02Z",
+        "channelId": "UCVT1tPkR-fUVlO652EcO3ow",
+        "title": "Hail and farewell: Those we lost in 2022",
+        "description": "\"Sunday Morning\" remembers some of the newsworthy men and women who passed away this year – statesmen and women, athletes, artists and storytellers who pushed boundaries, defied expectations, and inspired generations with their creativity and humanity. Lee Cowan reports.\n#hailandfarewell #obituaries \n\n\"CBS Sunday Morning\" features stories on the arts, music, nature, entertainment, sports, history, science and Americana, and highlights unique human accomplishments and achievements. Check local listings for CBS Sunday Morning broadcast times.\n\nSubscribe to the \"CBS Sunday Morning\" YouTube channel: http://bit.ly/20gXwJT\nGet more of \"CBS Sunday Morning\": http://cbsn.ws/1PlMmAz\nFollow \"CBS Sunday Morning\" on Instagram: http://bit.ly/23XunIh\nLike \"CBS Sunday Morning\" on Facebook: https://bit.ly/3sRgLPG\nFollow \"CBS Sunday Morning\" on Twitter: http://bit.ly/1RquoQb\nSubscribe to our newsletter: http://cbsn.ws/1RqHw7T\nDownload the CBS News app: http://cbsn.ws/1Xb1WC8\nTry Paramount+ free: https://bit.ly/2OiW1kZ\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XMOLg_E9Fh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XMOLg_E9Fh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XMOLg_E9Fh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XMOLg_E9Fh0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XMOLg_E9Fh0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CBS Sunday Morning",
+        "tags": [
+          "CBS Sunday Morning",
+          "CBS News",
+          "news",
+          "women",
+          "athletes",
+          "artists",
+          "storytellers",
+          "men",
+          "statesmen",
+          "boundaries",
+          "inspire"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hail and farewell: Those we lost in 2022",
+          "description": "\"Sunday Morning\" remembers some of the newsworthy men and women who passed away this year – statesmen and women, athletes, artists and storytellers who pushed boundaries, defied expectations, and inspired generations with their creativity and humanity. Lee Cowan reports.\n#hailandfarewell #obituaries \n\n\"CBS Sunday Morning\" features stories on the arts, music, nature, entertainment, sports, history, science and Americana, and highlights unique human accomplishments and achievements. Check local listings for CBS Sunday Morning broadcast times.\n\nSubscribe to the \"CBS Sunday Morning\" YouTube channel: http://bit.ly/20gXwJT\nGet more of \"CBS Sunday Morning\": http://cbsn.ws/1PlMmAz\nFollow \"CBS Sunday Morning\" on Instagram: http://bit.ly/23XunIh\nLike \"CBS Sunday Morning\" on Facebook: https://bit.ly/3sRgLPG\nFollow \"CBS Sunday Morning\" on Twitter: http://bit.ly/1RquoQb\nSubscribe to our newsletter: http://cbsn.ws/1RqHw7T\nDownload the CBS News app: http://cbsn.ws/1Xb1WC8\nTry Paramount+ free: https://bit.ly/2OiW1kZ\n\nFor video licensing inquiries, contact: licensing@veritone.com"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5A5RPxrNoVpyGkaEei-9ia-x_U8",
+      "id": "7vZOuClmaxk",
+      "snippet": {
+        "publishedAt": "2023-01-01T06:00:11Z",
+        "channelId": "UCFKE7WVJfvaHW5q283SxchA",
+        "title": "Center - Day 0 - Welcome",
+        "description": "Find your Center. Today is orientation day! Let’s call this Day 0. A clean slate. Are you ready? This is the day to get yourself oriented. Set yourself up for the next 30 days. \nSoak in your intentions and prepare for this journey designed to support whole body mental health! \n\nIt’s also a chance to gather any props (nothing fancy, you can get creative!) and invite any friends or family to join you. \n\nYou are here for the LIVE rollout of this 30-Day Yoga Journey. \n\nSo please note that videos will upload at 12am CT (that’s midnight Texas time y’all)\n\nSIGN UP at https://do.yogawithadriene.com/center to receive the full program, delivered to your inbox! This includes your free downloadable CENTER calendar with practice times so you can plan ahead. It also includes a daily message from me to help you ask questions, stay motivated, and go deeper in your practice.\n\nVisit the Community Page to connect and read more: https://www.youtube.com/c/yogawithadriene/community\n\n\n- - - - - - - - - - \n\n❤️ WELCOME to the Yoga With Adriene YouTube channel! Our mission is to connect as many people as possible through high-quality free yoga videos. We welcome all levels, all bodies, all genders, all souls! SUBSCRIBE  to the channel and join our global movement! ❤️\nhttps://www.youtube.com/user/yogawithadriene?sub_confirmation=1\n\n- - - - - - - - - -  \n\n🧘🏽‍♂️🧘‍♀️ Find What Feels Good!  🧘🏻‍♂️🧘🏿‍♀️\nhttps://fwfg.com/\nJoin the Find What Feels Good membership and access over 850 videos, including yoga and meditation for all levels. Explore daily practices, workshops, in-depth learning, weekly or monthly accountability series, and an opportunity to connect with a one-of-a-kind global community. This is your one-stop shop for yoga, creativity, wellness, and all things FWFG.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7vZOuClmaxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7vZOuClmaxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7vZOuClmaxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7vZOuClmaxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7vZOuClmaxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Yoga With Adriene",
+        "tags": [
+          "home yoga",
+          "home yoga practice",
+          "yoga at home",
+          "at home yoga",
+          "Adriene Mishler",
+          "austin yoga instructor",
+          "free yoga",
+          "free yoga videos",
+          "full yoga class",
+          "morning yoga",
+          "online yoga",
+          "yoga practice",
+          "yoga with Adrienne"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Center - Day 0 - Welcome",
+          "description": "Find your Center. Today is orientation day! Let’s call this Day 0. A clean slate. Are you ready? This is the day to get yourself oriented. Set yourself up for the next 30 days. \nSoak in your intentions and prepare for this journey designed to support whole body mental health! \n\nIt’s also a chance to gather any props (nothing fancy, you can get creative!) and invite any friends or family to join you. \n\nYou are here for the LIVE rollout of this 30-Day Yoga Journey. \n\nSo please note that videos will upload at 12am CT (that’s midnight Texas time y’all)\n\nSIGN UP at https://do.yogawithadriene.com/center to receive the full program, delivered to your inbox! This includes your free downloadable CENTER calendar with practice times so you can plan ahead. It also includes a daily message from me to help you ask questions, stay motivated, and go deeper in your practice.\n\nVisit the Community Page to connect and read more: https://www.youtube.com/c/yogawithadriene/community\n\n\n- - - - - - - - - - \n\n❤️ WELCOME to the Yoga With Adriene YouTube channel! Our mission is to connect as many people as possible through high-quality free yoga videos. We welcome all levels, all bodies, all genders, all souls! SUBSCRIBE  to the channel and join our global movement! ❤️\nhttps://www.youtube.com/user/yogawithadriene?sub_confirmation=1\n\n- - - - - - - - - -  \n\n🧘🏽‍♂️🧘‍♀️ Find What Feels Good!  🧘🏻‍♂️🧘🏿‍♀️\nhttps://fwfg.com/\nJoin the Find What Feels Good membership and access over 850 videos, including yoga and meditation for all levels. Explore daily practices, workshops, in-depth learning, weekly or monthly accountability series, and an opportunity to connect with a one-of-a-kind global community. This is your one-stop shop for yoga, creativity, wellness, and all things FWFG."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iBNsGvXaDxj9epMtZ-5GY8G7Cqw",
+      "id": "8DNLvMTxhb8",
+      "snippet": {
+        "publishedAt": "2023-01-01T18:00:02Z",
+        "channelId": "UCzzOKT1SkE7qdycJvPCR3Gg",
+        "title": "I Cut My Long Hair SHORT *and surprised my family!*",
+        "description": "HAPPY NEW YEAR.. Today I CHOPPED MY HAIR OFF lol :O\nNew video's every week, subscribe to be notified when they go LIVE!\n\n❁ SOCIAL MEDIA ❁\n❁ TikTok: https://www.tiktok.com/@realiomiamapl...\n❁ Instagram: https://www.instagram.com/miamaples/?...\n\nThank you so much for watching!\nLOVE Mia\n\n#miamaples #haircut",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8DNLvMTxhb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8DNLvMTxhb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8DNLvMTxhb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8DNLvMTxhb8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8DNLvMTxhb8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mia Maples",
+        "tags": [
+          "mia maples",
+          "cutting bangs",
+          "giving myself bangs",
+          "cutting my own hair",
+          "cutting my hair for the first time",
+          "trying curtain bangs",
+          "mama maples",
+          "new year new hair",
+          "showing my new hair",
+          "I changed my hair",
+          "try on haul",
+          "haul",
+          "mental health goals",
+          "wolf cut",
+          "tiktok wolf cut",
+          "trying to do the wolf cut at home",
+          "tiktok hair trends",
+          "tiktok",
+          "trends",
+          "cutting short layers in long hair",
+          "making bad decisions",
+          "the big chop",
+          "cutting 15 inches of hair",
+          "cutting off all my hair"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Cut My Long Hair SHORT *and surprised my family!*",
+          "description": "HAPPY NEW YEAR.. Today I CHOPPED MY HAIR OFF lol :O\nNew video's every week, subscribe to be notified when they go LIVE!\n\n❁ SOCIAL MEDIA ❁\n❁ TikTok: https://www.tiktok.com/@realiomiamapl...\n❁ Instagram: https://www.instagram.com/miamaples/?...\n\nThank you so much for watching!\nLOVE Mia\n\n#miamaples #haircut"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6EdAontSylVHh6ZCQiUdeWL58os",
+      "id": "0ZNzDDf0AOw",
+      "snippet": {
+        "publishedAt": "2023-01-02T00:49:08Z",
+        "channelId": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+        "title": "San Francisco 49ers vs. Las Vegas Raiders | 2022 Week 17 Game Highlights",
+        "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ZNzDDf0AOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ZNzDDf0AOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ZNzDDf0AOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ZNzDDf0AOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ZNzDDf0AOw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NFL",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "San Francisco 49ers vs. Las Vegas Raiders | 2022 Week 17 Game Highlights",
+          "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C-A8eaGZ03rdCdz-hCANZvQ0ekQ",
+      "id": "CAPfNrxklig",
+      "snippet": {
+        "publishedAt": "2022-12-31T13:00:12Z",
+        "channelId": "UCrXzMVbjcaVvVtihxNpBvMQ",
+        "title": "We Spent 24 Hours in VR Together",
+        "description": "Check out all the latest MSI deals: https://msi.gm/TB_Raider\n\nBE ONE OF THE BOYS WITH YOUTUBE MEMBERS:\nhttps://www.youtube.com/channel/UCrXzMVbjcaVvVtihxNpBvMQ/join\n\nMERCH: https://theboys.store/\n\nWE ARE THE BOYS \nDiscord: https://discord.gg/yeptheboys\nTwitter: https://twitter.com/yeptheboys\nInstagram: https://www.instagram.com/yeptheboys/\nTikTok: https://www.tiktok.com/@yeptheboys\nFacebook: https://www.facebook.com/yeptheboys\n\nOUR CHANNELS\nJoshDub: https://bit.ly/3i2Emrg\nMully: https://bit.ly/39U012a\nEddieVR: https://bit.ly/3a0IZj0\nYourNarrator: https://bit.ly/3fBb9Co\nJuicy: https://bit.ly/31dqNOQ\n\nTHE BOYS THEME MUSIC: https://cmg.ffm.to/tbts\n\nSubmit a Video Idea: https://forms.gle/uUnxCLpHw3Eobxiy5",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CAPfNrxklig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CAPfNrxklig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CAPfNrxklig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CAPfNrxklig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CAPfNrxklig/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Boys",
+        "tags": [
+          "VR",
+          "Virtual Reality",
+          "The Boys",
+          "JoshDub",
+          "Mully",
+          "EddieVR",
+          "YourNarrator",
+          "Juicy",
+          "Comedy",
+          "Funny",
+          "Gaming"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "We Spent 24 Hours in VR Together",
+          "description": "Check out all the latest MSI deals: https://msi.gm/TB_Raider\n\nBE ONE OF THE BOYS WITH YOUTUBE MEMBERS:\nhttps://www.youtube.com/channel/UCrXzMVbjcaVvVtihxNpBvMQ/join\n\nMERCH: https://theboys.store/\n\nWE ARE THE BOYS \nDiscord: https://discord.gg/yeptheboys\nTwitter: https://twitter.com/yeptheboys\nInstagram: https://www.instagram.com/yeptheboys/\nTikTok: https://www.tiktok.com/@yeptheboys\nFacebook: https://www.facebook.com/yeptheboys\n\nOUR CHANNELS\nJoshDub: https://bit.ly/3i2Emrg\nMully: https://bit.ly/39U012a\nEddieVR: https://bit.ly/3a0IZj0\nYourNarrator: https://bit.ly/3fBb9Co\nJuicy: https://bit.ly/31dqNOQ\n\nTHE BOYS THEME MUSIC: https://cmg.ffm.to/tbts\n\nSubmit a Video Idea: https://forms.gle/uUnxCLpHw3Eobxiy5"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YV6gqBn3_MyrP8-HLbbrkKvqt_E",
+      "id": "skO_bVXMWzU",
+      "snippet": {
+        "publishedAt": "2022-12-31T20:51:09Z",
+        "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
+        "title": "New Year's 2023: Dubai puts on thrilling fireworks show at Burj Khalifa",
+        "description": "Dubai held another elaborate New Year's fireworks display at the world's tallest skyscraper, the iconic Burj Khalifa, to ring in 2023.\n\nFor more info, please go to https://globalnews.ca\nSubscribe to Global News Channel HERE: http://bit.ly/20fcXDc\nLike Global News on Facebook HERE: http://bit.ly/255GMJQ\nFollow Global News on Twitter HERE: http://bit.ly/1Toz8mt\nFollow Global News on Instagram HERE: https://bit.ly/2QZaZIB\n#GlobalNews",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/skO_bVXMWzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/skO_bVXMWzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/skO_bVXMWzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/skO_bVXMWzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/skO_bVXMWzU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Global News",
+        "tags": [
+          "global news",
+          "dubai fireworks",
+          "dubai fireworks show",
+          "dubai fireworks display",
+          "dubai nye",
+          "dubai nye show",
+          "dubai new year's eve fireworks",
+          "dubai nye fireworks",
+          "dubai burj khalifa show",
+          "dubai burj khalifa",
+          "new years eve",
+          "new years 2023",
+          "new years eve fireworks",
+          "nye fireworks",
+          "uae fireworks"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "New Year's 2023: Dubai puts on thrilling fireworks show at Burj Khalifa",
+          "description": "Dubai held another elaborate New Year's fireworks display at the world's tallest skyscraper, the iconic Burj Khalifa, to ring in 2023.\n\nFor more info, please go to https://globalnews.ca\nSubscribe to Global News Channel HERE: http://bit.ly/20fcXDc\nLike Global News on Facebook HERE: http://bit.ly/255GMJQ\nFollow Global News on Twitter HERE: http://bit.ly/1Toz8mt\nFollow Global News on Instagram HERE: https://bit.ly/2QZaZIB\n#GlobalNews"
+        },
+        "defaultAudioLanguage": "en-CA"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "amwLict9nf4m3jThry9tuCI4A0A",
+      "id": "naQ0RuXB3fI",
+      "snippet": {
+        "publishedAt": "2023-01-01T14:00:17Z",
+        "channelId": "UCVjlpEjEY9GpksqbEesJnNA",
+        "title": "Uncle Roger Learn To Make Lobster Roll (ft. NICK DIGIOVANNI)",
+        "description": "Uncle Nick (@NickDiGiovanni) teach Uncle Roger how to make Lobster Roll, Nick's hometown dish from Boston.\n\nUse code UNCLEROGER to get 10% off Uncle Roger's favorite soup dumplings (US only): https://thexcj.com/discount/UNCLEROGER\n\n💰 Support me so I can keep making weejios for you!\nMerch: https://unclerogermerch.com/\nChannel membership: https://www.youtube.com/channel/UCVjlpEjEY9GpksqbEesJnNA/join\nShoutouts: https://www.cameo.com/mrnigelng\n\n---\n\nEdited by: Nigel Ng and Frankie Lowe\n\nUncle Roger is the creation of comedian Nigel Ng.\n\nFollow my socials for more content ⬇️\n💬 Discord: https://discord.gg/2WT3gfc2Qw\n📸 Instagram: https://www.instagram.com/mrnigelng/\n👪 Facebook: https://www.facebook.com/nigelngcomedy/\n🤖 Reddit: https://www.reddit.com/r/UncleRoger/\n🕺 tiktok: https://www.tiktok.com/@mrnigelng\n🐦 Twitter: https://twitter.com/MrNigelNg\n\n🌎 If you want me to tour your area, put your city in here: http://bit.ly/nigelngmail\n\n© Orange Heart Productions",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/naQ0RuXB3fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/naQ0RuXB3fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/naQ0RuXB3fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/naQ0RuXB3fI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/naQ0RuXB3fI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "mrnigelng",
+        "tags": ["nigel ng", "uncle roger", "nigel ng comedy"],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Uncle Roger Learn To Make Lobster Roll (ft. NICK DIGIOVANNI)",
+          "description": "Uncle Nick (@NickDiGiovanni) teach Uncle Roger how to make Lobster Roll, Nick's hometown dish from Boston.\n\nUse code UNCLEROGER to get 10% off Uncle Roger's favorite soup dumplings (US only): https://thexcj.com/discount/UNCLEROGER\n\n💰 Support me so I can keep making weejios for you!\nMerch: https://unclerogermerch.com/\nChannel membership: https://www.youtube.com/channel/UCVjlpEjEY9GpksqbEesJnNA/join\nShoutouts: https://www.cameo.com/mrnigelng\n\n---\n\nEdited by: Nigel Ng and Frankie Lowe\n\nUncle Roger is the creation of comedian Nigel Ng.\n\nFollow my socials for more content ⬇️\n💬 Discord: https://discord.gg/2WT3gfc2Qw\n📸 Instagram: https://www.instagram.com/mrnigelng/\n👪 Facebook: https://www.facebook.com/nigelngcomedy/\n🤖 Reddit: https://www.reddit.com/r/UncleRoger/\n🕺 tiktok: https://www.tiktok.com/@mrnigelng\n🐦 Twitter: https://twitter.com/MrNigelNg\n\n🌎 If you want me to tour your area, put your city in here: http://bit.ly/nigelngmail\n\n© Orange Heart Productions"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
